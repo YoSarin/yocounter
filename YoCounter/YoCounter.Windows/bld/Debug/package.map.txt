@@ -1,0 +1,12 @@
+[Files]
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bin\Debug\AppxManifest.xml" "AppxManifest.xml"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\images\logo.png" "images\logo.png"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\images\smalllogo.png" "images\smalllogo.png"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\images\splashscreen.png" "images\splashscreen.png"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\images\storelogo.png" "images\storelogo.png"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\default.html" "default.html"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Shared\css\common.css" "css\common.css"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Shared\js\common.js" "js\common.js"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Shared\js\jquery-1.11.1.js" "js\jquery-1.11.1.js"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Shared\js\launcher.js" "js\launcher.js"
+"c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bin\Debug\resources.pri" "resources.pri"

@@ -1,0 +1,1 @@
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\AppPackages\Counter.Windows_1.0.0.0_AnyCPU_Debug_Test\Counter.Windows_1.0.0.0_AnyCPU_Debug.appx

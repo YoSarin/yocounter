@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+    <HasSharedItems>true</HasSharedItems>
+    <SharedGUID>27421a24-f14a-4238-8590-6192359e5b02</SharedGUID>
+  </PropertyGroup>
+  <ItemGroup>
+    <Content Include="$(MSBuildThisFileDirectory)css\common.css" />
+    <Content Include="$(MSBuildThisFileDirectory)default.html" />
+    <Content Include="$(MSBuildThisFileDirectory)js\counter.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\jquery-1.11.1.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\launcher.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\log.js" />
+    <Content Include="$(MSBuildThisFileDirectory)js\storage.js" />
+  </ItemGroup>
+</Project>

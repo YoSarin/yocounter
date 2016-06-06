@@ -1,0 +1,2 @@
+﻿function Counter(name, value) {
+}

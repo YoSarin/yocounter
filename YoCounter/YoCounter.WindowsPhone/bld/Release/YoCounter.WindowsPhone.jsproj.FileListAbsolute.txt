@@ -1,0 +1,15 @@
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bin\Release\resources.pri
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bin\Release\AppxManifest.xml
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bin\Release\YoCounter.WindowsPhone.build.appxrecipe
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\priconfig.xml
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\priconfig.xml.intermediate
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\layout.resfiles
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\layout.resfiles.intermediate
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\resources.resfiles
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\resources.resfiles.intermediate
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\pri.resfiles
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\pri.resfiles.intermediate
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\qualifiers.txt
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\qualifiers.txt.intermediate
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\bld\Release\ProjectArchitectures.txt

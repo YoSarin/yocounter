@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Counter</title>
+        <script type="text/javascript" src="js/jquery-1.11.1.js"></script>
+        <script type="text/javascript" src="js/common.js"></script>
+        <script type="text/javascript" src="js/counter.js"></script>
+        <script type="text/javascript" src="js/settingshandler.js"></script>
+        <script type="text/javascript" src="js/launcher.js"></script>
+        <link href="css/common.css" rel="stylesheet" />
+	</head>
+	<body>
+		<div id="templates" class="hidden">
+			<div class="counter">
+                <input class="remove block" value="-" type="button">
+				<div class="data">
+					<strong class="value">0</strong>
+					<small class="name"></small>
+				</div>
+				<div class="add modify"></div>
+				<div class="sub modify"></div>
+			</div>
+		</div>
+		<div id="content">
+			<div id="counters"></div>
+		</div>
+        <div id="setup">
+            <input class="toggleHidden block" value="+" rel="nameInput" type="button">
+            <div class="hidden fullWidth" id="nameInput">
+                <label for="name">Název </label><input name="name" class="focus" id="setName" type="text" />
+                <input type="button" class="addCounter" rel="setName" value="Přidat" />
+            </div>
+        </div>
+        <div id="log" class="hidden">
+
+        </div>
+	</body>
+</html>

@@ -1,0 +1,45 @@
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bin\Debug\AppxManifest.xml
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bin\Debug\Counter.Windows.build.appxrecipe
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\priconfig.xml
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\priconfig.xml.intermediate
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\layout.resfiles
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\layout.resfiles.intermediate
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\resources.resfiles
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\resources.resfiles.intermediate
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\pri.resfiles
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\pri.resfiles.intermediate
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\qualifiers.txt
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\qualifiers.txt.intermediate
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bld\Debug\ProjectArchitectures.txt
+c:\users\yosarin\documents\visual studio 2013\Projects\Counter\Counter\Counter.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bin\Debug\AppxManifest.xml
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bin\Debug\Counter.Windows.build.appxrecipe
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\priconfig.xml
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\layout.resfiles
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\resources.resfiles
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\pri.resfiles
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\qualifiers.txt
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\yosarin\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\ProjectArchitectures.txt
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bin\Debug\ReverseMap\resources.pri
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bin\Debug\AppxManifest.xml
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bin\Debug\Counter.Windows.build.appxrecipe
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\priconfig.xml
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\priconfig.xml.intermediate
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\layout.resfiles
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\layout.resfiles.intermediate
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\resources.resfiles
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\resources.resfiles.intermediate
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\pri.resfiles
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\pri.resfiles.intermediate
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\qualifiers.txt
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\qualifiers.txt.intermediate
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\marez\SkyDrive\Counter\Counter\Counter.Windows\bld\Debug\ProjectArchitectures.txt
