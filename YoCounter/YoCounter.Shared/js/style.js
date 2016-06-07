@@ -69,8 +69,8 @@
 
     apply: function (element) {
         for (key in Style.styles[Style.currentStyle]['fields']) {
-            $(element).css({'background-color': '', 'background-image' : ''});
-            $(element).css(key, Style.getRandomValue(Style.currentStyle, Style.styles[Style.currentStyle]['fields'][key]));
+            $(element).find(".inner").css({'background-color': '', 'background-image' : ''});
+            $(element).find(".inner").css(key, Style.getRandomValue(Style.currentStyle, Style.styles[Style.currentStyle]['fields'][key]));
         }
     },
 
