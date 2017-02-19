@@ -1,1 +1,0 @@
-C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\YoCounter\YoCounter.WindowsPhone\AppPackages\YoCounter.WindowsPhone_1.1.0.19_AnyCPU_Test\YoCounter.WindowsPhone_1.1.0.19_AnyCPU.appx

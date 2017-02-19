@@ -1,1 +1,0 @@
-C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\YoCounter\YoCounter.Windows\AppPackages\YoCounter.Windows_1.1.0.19_AnyCPU_Test\YoCounter.Windows_1.1.0.19_AnyCPU.appx
