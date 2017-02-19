@@ -1,1 +1,1 @@
-C:\Users\yosarin\OneDrive\Dokumenty\dev\YoCounter\YoCounter\YoCounter.WindowsPhone\YoCounter.WindowsPhone.jsproj;neutral
+C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\YoCounter\YoCounter.WindowsPhone\YoCounter.WindowsPhone.jsproj;neutral

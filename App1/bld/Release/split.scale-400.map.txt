@@ -1,0 +1,14 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\split.scale-400.pri"			"resources.pri"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\Wide310x150Logo.scale-400.png"			"images\Wide310x150Logo.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\StoreLogo.scale-400.png"			"images\StoreLogo.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\Square71x71Logo.scale-400.png"			"images\Square71x71Logo.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\Square44x44Logo.scale-400.png"			"images\Square44x44Logo.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\Square310x310Logo.scale-400.png"			"images\Square310x310Logo.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\Square150x150Logo.scale-400.png"			"images\Square150x150Logo.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\SplashScreen.scale-400.png"			"images\SplashScreen.scale-400.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\BadgeLogo.scale-400.png"			"images\BadgeLogo.scale-400.png"

@@ -1,0 +1,8 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-150"
+"ResourceDimensions"		"scale-150"
+
+[Files]
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\split.scale-150.pri"			"resources.pri"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\StoreLogo.scale-150.png"			"images\StoreLogo.scale-150.png"
+"C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bld\Release\PackageLayout\images\SplashScreen.scale-150.png"			"images\SplashScreen.scale-150.png"

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Package xmlns="http://schemas.microsoft.com/appx/2010/manifest" xmlns:m2="http://schemas.microsoft.com/appx/2013/manifest">
-  <Identity Name="57917YoSarin.YoCounter" Version="1.1.0.13" Publisher="CN=BE6CAD0A-8BA8-4F49-A97C-C3D999B6A33D" />
+  <Identity Name="57917YoSarin.YoCounter" Version="1.1.0.19" Publisher="CN=BE6CAD0A-8BA8-4F49-A97C-C3D999B6A33D" />
   <Properties>
     <DisplayName>YoCounter</DisplayName>
     <PublisherDisplayName>YoSarin</PublisherDisplayName>
