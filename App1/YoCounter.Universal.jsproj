@@ -52,11 +52,11 @@
     <TargetPlatformMinVersion>10.0.10586.0</TargetPlatformMinVersion>
     <MinimumVisualStudioVersion>$(VersionNumberMajor).$(VersionNumberMinor)</MinimumVisualStudioVersion>
     <DefaultLanguage>en-US</DefaultLanguage>
-    <PackageCertificateKeyFile>YoCounter.Universal.pfx</PackageCertificateKeyFile>
+    <PackageCertificateKeyFile>YoCounter.Universal_TemporaryKey.pfx</PackageCertificateKeyFile>
     <AppxAutoIncrementPackageRevision>True</AppxAutoIncrementPackageRevision>
     <AppxBundle>Always</AppxBundle>
     <AppxBundlePlatforms>neutral</AppxBundlePlatforms>
-    <PackageCertificateThumbprint>1124222E593975DC94BBA55B2EA0506DBFDA9343</PackageCertificateThumbprint>
+    <PackageCertificateThumbprint>D27483B041673C366E4E42D318C51B08485CCEF0</PackageCertificateThumbprint>
   </PropertyGroup>
   <ItemGroup>
     <AppxManifest Include="package.appxmanifest">
@@ -93,6 +93,7 @@
     <Content Include="js\log.js" />
     <Content Include="js\storage.js" />
     <Content Include="js\style.js" />
+    <None Include="YoCounter.Universal_TemporaryKey.pfx" />
     <None Include="Package.StoreAssociation.xml" />
     <Content Include="styles\munchkin\images\01.png" />
     <Content Include="styles\munchkin\images\02.png" />
