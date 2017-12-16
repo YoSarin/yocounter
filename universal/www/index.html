@@ -1,0 +1,56 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Counter</title>
+    <script type="text/javascript" src="js/jquery-3.1.1.js"></script>
+    <script type="text/javascript" src="js/common.js"></script>
+    <script type="text/javascript" src="js/style.js"></script>
+    <script type="text/javascript" src="js/log.js"></script>
+    <script type="text/javascript" src="js/counter.js"></script>
+    <script type="text/javascript" src="js/storage.js"></script>
+    <script type="text/javascript" src="js/launcher.js"></script>
+    <link href="css/common.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="templates" class="hidden">
+        <div class="counter">
+            <div class="inner">
+                <div class="filter">
+                    <div class="data">
+                        <strong class="value">0</strong>
+                        <small class="temp"></small>
+                        <small class="name"></small>
+                    </div>
+                    <div class="add modify"></div>
+                    <div class="sub modify"></div>
+                    <div class="buttons top right">
+                        <input class="remove" value="X" type="button">
+                    </div>
+                    <div class="buttons top left">
+                    </div>
+                    <div class="buttons bottom left">
+                        <input class="sub5" value="-5" type="button">
+                        <input class="sub10" value="-10" type="button">
+                    </div>
+                    <div class="buttons bottom right">
+                        <input class="add5" value="+5" type="button">
+                        <input class="add10" value="+10" type="button">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="content">
+        <div id="counters"></div>
+    </div>
+    <div id="setup">
+        <label for="name">New counter: </label><input name="name" class="focus" id="setName" type="text" /><input type="button" class="addCounter" rel="setName" value="Add" /><br />
+        <label for="style">Style: </label>
+        <select name="style" id="styleSwitch"></select>
+        <a class="reapplyStyle" href="#">&#8635;</a>
+        <small><a class="toggleHidden" rel="log">expose log</a></small>
+        <div id="log" class="hidden">
+        </div>
+</body>
+</html>

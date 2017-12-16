@@ -1,4 +1,0 @@
-MainPackage=C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\bin\Release\Upload\YoCounter.Universal_1.1.30.0_AnyCPU.appx
-ResourcePack=C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\_scale-100.appx
-ResourcePack=C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\_scale-150.appx
-ResourcePack=C:\Users\yosarin\src\github.com\martin-reznik\yocounter\yocounter\App1\_scale-400.appx
